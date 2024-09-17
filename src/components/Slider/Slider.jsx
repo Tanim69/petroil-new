@@ -1,4 +1,4 @@
-import React from 'react'
+
 import slider1 from '../../assets/img1.png'
 import slider2 from '../../assets/img2.png'
 import slider3 from '../../assets/img3.png'

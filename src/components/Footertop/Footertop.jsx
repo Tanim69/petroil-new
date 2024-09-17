@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 import footlogo from '../../../src/assets/footlogo.png'
 

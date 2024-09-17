@@ -1,6 +1,6 @@
 import Banner from "./components/Banner/Banner"
 import Biggest from "./components/Biggest/Biggest"
-import Company from "./components/Company/company"
+import Company from "./components/Company/Company"
 import Footerbottom from "./components/Footerbottom/Footerbottom"
 import Footertop from "./components/Footertop/Footertop"
 import Header from "./components/Header/Header"
@@ -27,7 +27,7 @@ function App() {
     <Biggest></Biggest>
     <Slider></Slider>
     <Services></Services>
-    <Company></Company>
+   <Company/>
     <Sponsor></Sponsor>
     <Imgbox></Imgbox>
     <Map></Map>

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import spon1 from '../../../src/assets/sponsor/peteromax.png'
 import spon2 from '../../../src/assets/sponsor/sponlogo.png'
 import spon3 from '../../../src/assets/sponsor/T.png'
